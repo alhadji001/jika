@@ -1,1 +1,4 @@
-sdfghjk test
+##Connect to git hub method:##
+So inorder to get connected 
+use username and password.
+For new version of http token will be used as pass.
